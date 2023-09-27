@@ -15,9 +15,9 @@ Most of the code was reused and adapted from https://github.com/ollamc/juliaPF a
 
 See the latter repository for more information on the dependancies and the usage.
 
-The script `FEM_INTERFACE.jl` contains the implementation of the quasi-static phase-field fracture model while `main.jl` contains the pre-processing and settings of the problem. The latter calls the functions of `FEM.jl`.
+The script `FEM_INTERFACE.jl` contains the implementation of the quasi-static phase-field fracture model while `main_tensile.jl` contains the pre-processing and settings of the problem. The latter calls the functions of `FEM_INTERFACE.jl`.
 
-The _Problems_ folder contains the finite element meshes and the files containing the boundary conditions used the different cell configurations studied in the manuscript.
+The _Geometries_ folder contains the finite element meshes and the files containing the boundary conditions used the different cell configurations studied in the manuscript.
 
 This work was developped for the two aforementionned publications. If you use this work, please cite these papers.
 
