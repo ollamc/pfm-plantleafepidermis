@@ -21,4 +21,5 @@ The _Geometries_ folder contains the finite element meshes and the files contain
 
 This work was developped for the two aforementionned publications. If you use this work, please cite these papers.
 
+![image](https://github.com/ollamc/pfm-plantleafepidermis/assets/47337723/fdfae1ec-7dd2-4d67-9c84-c11bdfc2160f)
 
